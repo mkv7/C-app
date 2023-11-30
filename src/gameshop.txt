@@ -1,0 +1,3 @@
+StreetFighter 6.99 13.98
+Mario 10.99 109.90
+Tetris 5.99 89.85
